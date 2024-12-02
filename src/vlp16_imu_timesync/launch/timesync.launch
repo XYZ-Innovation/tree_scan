@@ -1,0 +1,12 @@
+<launch>
+    <!-- LiDAR and IMU Sync Node -->
+    <node name="sensor_sync_node" pkg="vlp16_imu_timesync" type="vlp16_imu_timesync.py" output="screen">
+        <!-- LiDAR and IMU Topics -->
+        <param name="lidar_topic" value="/livox/lidar" />
+        <param name="imu_topic" value="/mavros/imu/data" />
+        
+        <!-- Publisher Topics -->
+        <param name="synced_lidar_topic" value="/synced_livox_points" />
+        <param name="synced_imu_topic" value="/synced_imu" />
+    </node>
+</launch>

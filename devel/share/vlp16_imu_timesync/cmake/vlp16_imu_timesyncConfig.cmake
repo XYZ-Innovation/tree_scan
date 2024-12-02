@@ -1,0 +1,1 @@
+/home/xyzlatte/ws_start/devel/.private/vlp16_imu_timesync/share/vlp16_imu_timesync/cmake/vlp16_imu_timesyncConfig.cmake

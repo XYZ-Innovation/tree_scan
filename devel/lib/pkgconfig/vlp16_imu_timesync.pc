@@ -1,0 +1,1 @@
+/home/xyzlatte/ws_start/devel/.private/vlp16_imu_timesync/lib/pkgconfig/vlp16_imu_timesync.pc

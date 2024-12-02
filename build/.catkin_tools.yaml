@@ -1,0 +1,6 @@
+devel_space: /home/xyzlatte/ws_start/devel
+install: false
+install_space: /home/xyzlatte/ws_start/install
+profile: default
+source_space: /home/xyzlatte/ws_start/src
+workspace: /home/xyzlatte/ws_start

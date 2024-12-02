@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/xyzlatte/ws_start/devel/.private/direct_lidar_inertial_odometry/setup.sh

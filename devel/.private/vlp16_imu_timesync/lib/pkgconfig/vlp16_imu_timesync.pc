@@ -1,0 +1,8 @@
+prefix=/home/xyzlatte/ws_start/devel/.private/vlp16_imu_timesync
+
+Name: vlp16_imu_timesync
+Description: Description of vlp16_imu_timesync
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

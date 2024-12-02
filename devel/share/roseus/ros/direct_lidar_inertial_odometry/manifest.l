@@ -1,0 +1,1 @@
+/home/xyzlatte/ws_start/devel/.private/direct_lidar_inertial_odometry/share/roseus/ros/direct_lidar_inertial_odometry/manifest.l

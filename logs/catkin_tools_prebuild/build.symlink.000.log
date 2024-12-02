@@ -1,0 +1,12 @@
+Symlinking /home/xyzlatte/ws_start/devel/./local_setup.bash
+Symlinking /home/xyzlatte/ws_start/devel/./setup.bash
+Symlinking /home/xyzlatte/ws_start/devel/./local_setup.sh
+Symlinking /home/xyzlatte/ws_start/devel/./setup.sh
+Symlinking /home/xyzlatte/ws_start/devel/./env.sh
+Symlinking /home/xyzlatte/ws_start/devel/./local_setup.zsh
+Symlinking /home/xyzlatte/ws_start/devel/./_setup_util.py
+Symlinking /home/xyzlatte/ws_start/devel/./setup.zsh
+Symlinking /home/xyzlatte/ws_start/devel/./cmake.lock
+Symlinking /home/xyzlatte/ws_start/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /home/xyzlatte/ws_start/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/xyzlatte/ws_start/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake

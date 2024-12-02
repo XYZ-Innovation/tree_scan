@@ -1,0 +1,8 @@
+prefix=/home/xyzlatte/ws_start/install
+
+Name: px_launch
+Description: Description of px_launch
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,5 @@
+Symlinking /home/xyzlatte/ws_start/devel/lib/pkgconfig/vlp16_imu_timesync.pc
+Symlinking /home/xyzlatte/ws_start/devel/lib/vlp16_imu_timesync/vlp16_imu_timesync.py
+Symlinking /home/xyzlatte/ws_start/devel/lib/vlp16_imu_timesync/cmake.lock
+Symlinking /home/xyzlatte/ws_start/devel/share/vlp16_imu_timesync/cmake/vlp16_imu_timesyncConfig.cmake
+Symlinking /home/xyzlatte/ws_start/devel/share/vlp16_imu_timesync/cmake/vlp16_imu_timesyncConfig-version.cmake

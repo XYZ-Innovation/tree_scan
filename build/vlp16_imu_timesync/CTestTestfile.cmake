@@ -1,0 +1,7 @@
+# CMake generated Testfile for 
+# Source directory: /home/xyzlatte/ws_start/src/vlp16_imu_timesync
+# Build directory: /home/xyzlatte/ws_start/build/vlp16_imu_timesync
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+subdirs("gtest")
